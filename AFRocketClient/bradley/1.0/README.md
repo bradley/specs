@@ -1,0 +1,1 @@
+This is the podspec pointing to the fork of AFRocketClient at https://github.com/bradley/AFRocketClient
