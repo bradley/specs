@@ -1,7 +1,7 @@
-specs
+specs :eyeglasses:
 =====
 
-:eyeglasses:Various Podfile specs.:eyeglasses:
+Various Podfile specs.
 
 Usage
 ====
