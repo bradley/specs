@@ -1,4 +1,4 @@
-# specs
+specs
 =====
 
 Various Podfile specs.
